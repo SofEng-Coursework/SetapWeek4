@@ -5,7 +5,7 @@
 
 ### To what extent, are you already aware of your carbon footprint?
 
-As a commuter, I do not have a high level of awareness about my current carbon footprint
+As a commuter, I do not have a high level of awareness about my current carbon footprint although I know my current habits are bad.
 
 
 ### How do you feel about your travel data being tracked?
