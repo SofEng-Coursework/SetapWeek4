@@ -18,3 +18,7 @@ I would not mind providing postcodes to the app, it would be helpful to have enc
 ### Are you looking to reduce your carbon footprint?
 
 "Yes, I would also like to hear what I could do to reduce it, like get told that it is better to take a train or bus, however, I may not want to be traveling for hours at a time"
+
+## How would you like to become aware of your carbon footprint?
+
+I would like to be able to see the impact of my Carbon Footprint rather than seeing numbers that dont make sense to me, seeing the impact could help me redicue 
