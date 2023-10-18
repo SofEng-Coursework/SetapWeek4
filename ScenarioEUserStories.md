@@ -13,7 +13,7 @@ Integration with calendar would be nice, so the user doesn't have to specify loc
 
 ### How do you feel about your travel data being tracked?
 
-I would not mind providing post codes to the app, it would be helpful to have encryption to keep my data safe, I am generally unsure on how I feel about travel data being tracked.
+I would not mind providing postcodes to the app, it would be helpful to have encryption to keep my data safe, I am generally unsure on how I feel about travel data being tracked.
 
 ### Are you looking to reduce your carbon footprint?
 
