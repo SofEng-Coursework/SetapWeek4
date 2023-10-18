@@ -21,4 +21,4 @@ I would not mind providing postcodes to the app, it would be helpful to have enc
 
 ### How would you like to become aware of your carbon footprint?
 
-I would like to be able to see the impact of my Carbon Footprint rather than seeing numbers that dont make sense to me, seeing the impact could help me redicue 
+I would like to be able to see the impact of my Carbon Footprint rather than seeing numbers that dont make sense to me, seeing the impact could help me reduce it.
