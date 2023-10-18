@@ -1,6 +1,6 @@
-Scenario E. EcoCalculator
+# Scenario E. EcoCalculator
 
-“The application that we will be developing will be an EcoCalculator. The application will allow the user to track their carbon footprint and give the user suggestions on how they can reduce their carbon consumption.” The target audience for this app is commuters and/or people who travel for work regularly.  (Team 4D, 2019)
+## “The application that we will be developing will be an EcoCalculator. The application will allow the user to track their carbon footprint and give the user suggestions on how they can reduce their carbon consumption.” The target audience for this app is commuters and/or people who travel for work regularly.  (Team 4D, 2019)
 
 
 ### To what extent, are you already aware of your carbon footprint?
