@@ -9,4 +9,4 @@ I would not mind providing post codes to the app, it would be helpful to have en
 
 ### Are you looking to reduce your carbon footprint?
 
-"Yes, I would also like to hear what I could do to reduce it, like get told that it is better to take a train or bus, however i may not want to be travelling for hours at a time"
+"Yes, I would also like to hear what I could do to reduce it, like get told that it is better to take a train or bus, however, I may not want to be traveling for hours at a time"
